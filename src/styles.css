@@ -1,0 +1,28 @@
+
+svg {
+	height: 100%;
+	width: 100%;
+	margin: auto;
+}
+@media only screen and (min-width: 600px) {
+	svg {
+		width: 80%;
+	}
+}
+@media only screen and (min-width: 1200px) {
+	svg {
+		width: 45%;
+	}
+}
+
+td {
+	border: 1px solid black;
+}
+table {
+	background-color:  	#ffffee;
+	border-collapse: collapse;
+	margin: 1em auto;
+}
+div {
+	text-align: center;
+}
